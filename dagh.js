@@ -37,7 +37,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 #users .uzr.dagh2 {
     background-size: 100% auto;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
-    background-image: url(https://up6.cc/2024/01/170560248842221.png);
+    background-image: url(https://up6.cc/2024/01/170586220300531.png);
     margin-right: 0px!important;
     margin-left: 0px!important;
     margin-top: 2px!important;
