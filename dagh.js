@@ -74,7 +74,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 var l_itvdagh=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvdagh);
-        $("#users .uzr:contains('⠀♡ є и α s | إيـــنۨــاسۜ♡⠀▪︎ّ⠀. .')").addClass('dagh2');
+        $("#users .uzr:contains('⠀. ▪︎ّ⠀ .دق⠀. ▪︎ّ⠀ .')").addClass('dagh2');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
