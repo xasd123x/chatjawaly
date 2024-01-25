@@ -10,7 +10,7 @@ $("style").last().append(`
 }
 #users .uzr.haydy2 .u-msg {
     text-align: center;
-    background-image: url(https://up6.cc/2023/12/170207118685932.gif);margin-right: 3px!important;
+    background-image: url(https://up6.cc/2023/12/170162505647371.gif);margin-right: 3px!important;
     margin-left: 2px!important;
     margin-top: 10px!important;
     margin-bottom: 10px!important;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 170% auto;
