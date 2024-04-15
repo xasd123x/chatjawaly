@@ -47,7 +47,7 @@ opacity: 0;
 
 }
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir {
-    background-image: url(https://up6.cc/2023/07/168943567471411.gif);
+    background-image: url(https://up6.cc/2024/04/17132202315422.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -229,7 +229,7 @@ background-color:#fff !important;
   background-size: cover;
 }
 #chats.r_alhelal1 {
-  background-image: url("https://up6.cc/2023/08/169126811079691.png")!important;
+  background-image: url("https://up6.cc/2024/04/171322023151251.png")!important;
   background-size: cover;
 }
 
