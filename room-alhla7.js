@@ -34,7 +34,7 @@ margin-left: -200px !important;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: -10px !important;
+  margin-left: -20px !important;
 }
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir.bord {border-inline: 0px solid #4c121e !important;}
