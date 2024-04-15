@@ -16,13 +16,13 @@ $(`<style>
 }
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
--webkit-text-fill-color: #fff;
+-webkit-text-fill-color: #273965;
 border-radius: 15px 0px 15px 0px !important;
 height: 27px;
 margin-top: 22px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00;
-margin-left: -200px !important;
+margin-left: -20px !important;
 
 }
 
