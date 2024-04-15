@@ -140,7 +140,7 @@ height: 52px;
 #users.r_alhelal1 .mini.u-msg{text-align:center;}#dpnl.r_alhelal1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.r_alhelal1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 50px!important}
 #rooms.r_alhelal1 .nosel.label-primary.fl.bgg, #rooms.r_alhelal1 .label.label-primary.uc {
   border-radius: 50px !important;
-  background-color: #3e5eb5 !important;
+  background-color: #d9534f00!important;
 }
 #users.r_alhelal1 img.ustat {
     width: 13px !important;
