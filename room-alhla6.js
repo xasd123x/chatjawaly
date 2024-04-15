@@ -28,13 +28,13 @@ margin-left: -200px !important;
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir .corner.fa.fa-user.label.label-primary.uc {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #fff;
+  -webkit-text-fill-color: #273965;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: -80px !important;
+  margin-left: -10px !important;
 }
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir.bord {border-inline: 0px solid #4c121e !important;}
