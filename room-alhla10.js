@@ -221,7 +221,7 @@ background-color:#fff !important;
   background-size: cover;
 }
 #wall.r_alhelal1 #d2bc {
-  background-image: url("https://up6.cc/2023/08/169126811079691.png")!important;
+  background-image: url("https://up6.cc/2024/04/171322262319741.png")!important;
   background-size: cover;
 }
 #rooms.r_alhelal1 {
