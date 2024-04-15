@@ -22,7 +22,7 @@ height: 27px;
 margin-top: 22px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00;
-margin-left: -200px !important;
+margin-left: -150px !important;
 
 }
 
