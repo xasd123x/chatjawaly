@@ -1,4 +1,4 @@
-var rid='18d186b865ax63f8b863-xgsznn6';
+var rid='18edeeb4046x0ffd9993-x-t1swy6';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  3px!important;border: 1px solid #0000;
 }`);
@@ -8,13 +8,13 @@ background-image: url(https://up6.cc/2023/06/168667588484863.png); background-si
 
 
 $(`<style>
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
 -webkit-text-fill-color: #442b15;
 border-radius: 15px 0px 15px 0px !important;
@@ -25,7 +25,7 @@ background-color: #d9534f00;
 margin-left: -60px !important;
 }
 
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .corner.fa.fa-user.label.label-primary.uc {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .corner.fa.fa-user.label.label-primary.uc {
   letter-spacing: 1px;
   -webkit-text-fill-color: #442b15;
   border-radius: 15px 0px 15px 0px !important;
@@ -36,8 +36,8 @@ margin-left: -60px !important;
   margin-left: -60px !important;
 }
 
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .dots.mini.u-msg {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .dots.mini.u-msg {
 text-align: center;
 margin-top: 72px !important;
 margin-left: 11px;
@@ -47,13 +47,13 @@ color: transparent !important;
 box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.08), 0px 0 5px #fff;
 border-radius: 15px;
 }
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 {
     background-image: url(https://up6.cc/2024/01/170552783001761.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #686868;
   letter-spacing: 1px;
@@ -66,7 +66,7 @@ border-radius: 15px;
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room.r18d186b865ax63f8b863-xgsznn6 .u-topic.dots {
+.nosel.d-flex.room.r18edeeb4046x0ffd9993-x-t1swy6 .u-topic.dots {
 text-transform: uppercase;
 -webkit-text-fill-color: #e8a64d00;
 animation: textclip 2s linear infinite;
@@ -328,7 +328,7 @@ button.rsave.btn.btn-primary.fl.room_f5r1 {
 `);
 var room_f5r = false;
 setInterval(function () {
-    if (myroom == '18d186b865ax63f8b863-xgsznn6') {
+    if (myroom == '18edeeb4046x0ffd9993-x-t1swy6') {
         if (room_f5r == false) {
             room_f5r = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('room_f5r1');
