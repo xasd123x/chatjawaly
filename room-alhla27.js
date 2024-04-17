@@ -89,7 +89,7 @@ $(`<style>#mic4 {margin-right: 8px !important;}
     margin-top: 1px;
 	height: 48px;
 	background-color: #B0B0B0;
-	border-radius: 50px !important;
+	border-radius: 10px 0 10px !important;
 }
 @keyframes huerotate {
     0% {
@@ -163,7 +163,7 @@ height: 52px;
     background-size: cover;
 }
 #d0.r_alhelal1 .label-primary {
-    border: 1px solid #464646 !important;
+    border: 1px solid #5596b3 !important;
     border-radius: 10px 0 10px !important;
     background-image: url(https://up6.cc/2024/04/17133736780591.png);
     color: #fff;
