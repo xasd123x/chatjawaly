@@ -114,7 +114,7 @@ $("style").last().append(`
 #d2.r_alhelal1 .uzr .fitimg.u-pic {
 height: 52px !important;
 border: 1px solid;
-border-radius: 50px;
+border-radius: 10px 0 10px !important;
 filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
@@ -122,11 +122,11 @@ margin-right: 2px;
 }
 #users.r_alhelal1 .fitimg.u-pic {
 border: 1px solid;
-border-radius: 50px;
+border-radius: 10px 0 10px !important;
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
-border-radius: 50px;
+border-radius: 10px 0 10px !important;
 margin-left: -12px;
 height: 52px;
 }
@@ -136,7 +136,7 @@ height: 52px;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
   background-size: cover;
 }
-#d2.r_alhelal1 .label-primary{background-color:#b77c9a!important}#d2.r_alhelal1 .bg{background-color:#b77c9a!important}#d2.r_alhelal1 .uzr.d-flex.mm.hmsg{border-radius: 50px;background-color:#bbbbbb9e!important}#dpnl.r_alhelal1{background-size: 100%;background-image: url(https://up6.cc/2023/07/168943567562992.png);background-color: #b2b2b2;  }#dpnl.r_alhelal1 .light{background-color:#dce0ec!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.r_alhelal1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.r_alhelal1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
+#d2.r_alhelal1 .label-primary{background-color:#b77c9a!important}#d2.r_alhelal1 .bg{background-color:#b77c9a!important}#d2.r_alhelal1 .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px !important;background-color:#bbbbbb9e!important}#dpnl.r_alhelal1{background-size: 100%;background-image: url(https://up6.cc/2023/07/168943567562992.png);background-color: #b2b2b2;  }#dpnl.r_alhelal1 .light{background-color:#dce0ec!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.r_alhelal1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.r_alhelal1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.r_alhelal1 .mini.u-msg{text-align:center;}#dpnl.r_alhelal1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.r_alhelal1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 50px!important}
 #rooms.r_alhelal1 .nosel.label-primary.fl.bgg, #rooms.r_alhelal1 .label.label-primary.uc {
   border-radius: 50px !important;
@@ -148,7 +148,7 @@ height: 52px;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 50px;
+    border-radius: 10px 0 10px !important;
     margin-left: 1px;
     margin-top: 1px;
     border: 1px solid #fff;
@@ -243,7 +243,7 @@ background-color:#FFF !important;
     background-size: 100%;
 }
 #mic.r_alhelal1 #muteall {
-    border-radius: 50px;
+    border-radius: 10px 0 10px !important;
     margin-top: 1px;
     border: 1px solid;
     border-image: linear-gradient(45deg, gold, #ffd400) 5;
@@ -254,7 +254,7 @@ background-color:#FFF !important;
 #wall.r_alhelal1 .fitimg.u-pic.borderg {
 height: 52px !important;
 border: 1px solid;
-border-radius: 50px;
+border-radius: 10px 0 10px !important;
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
@@ -320,7 +320,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
   border: 1px solid #bfbfbf;
 }
 .uhtml.r_alhelal1 {
-  border-radius: 50px;
+  border-radius: 10px 0 10px !important;
 }
 
 #users.r_alhelal1 .inroom .fitimg.u-pic {
@@ -330,7 +330,7 @@ margin-top: 2px;
 margin-right: 2px;
 margin-left: -12px;
 height: 52px;
-border-radius: 50px;
+border-radius: 10px 0 10px !important;
 }
 
 #room.r_alhelal1 {
@@ -338,15 +338,15 @@ border-radius: 50px;
 }
 
 button.blike.corner.btn.minix.btn-danger.fa.fa-heart.r_alhelal1 {
-   border-radius: 50px;
+   border-radius: 10px 0 10px !important;
 }
 button.border.btn.label.label-success.fl.fa.fa-plus.r_alhelal1 {
-   border-radius: 50px;
+   border-radius: 10px 0 10px !important;
 }
 button.rsave.btn.btn-primary.fl.r_alhelal1 {
    background-image: url(https://up6.cc/2023/07/168943567562992.png);
    background-size: cover;
-   border-radius: 50px;
+   border-radius: 10px 0 10px !important;
 }
 
 
