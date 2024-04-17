@@ -8,6 +8,13 @@ background-image: url(https://up6.cc/2024/04/17133736780591.png); background-siz
 
 
 $(`<style>
+.nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir .dots.mini.u-msg {
+    text-align: center!important;
+    margin-top: 75px !important;
+    margin-left: 11px!important;
+    color: #000 !important!important;
+    opacity: 0!important;
+}
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
@@ -38,14 +45,6 @@ margin-left: -20px !important;
 }
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir .dots.mini.u-msg {
-text-align: center;
-margin-top: 75px !important;
-margin-left: 11px;
-color: #000 !important;
-opacity: 0;
-
-}
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir {
     background-image: url(https://up6.cc/2024/04/17132202315422.png);
     background-size: cover;
