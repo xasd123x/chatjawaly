@@ -131,7 +131,7 @@ margin-left: -12px;
 height: 52px;
 }
 #d0.r_alhelal1 {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec1c;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
   background-size: cover;
