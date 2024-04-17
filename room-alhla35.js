@@ -209,7 +209,7 @@ border-radius:  10px 0 10px !important;
 }
 #d2.r_alhelal1{
 background-color:#FFF !important;
-  background-image: url("https://up6.cc/2024/04/17133769642231.png")!important;
+  background-image: url("https://up6.cc/2024/04/171337913441661.png")!important;
   background-size: cover;
 }
 
