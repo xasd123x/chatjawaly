@@ -1,6 +1,6 @@
 var rid='18ee3d707d9xaf87ad06-xj8dpir';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  50px!important;border: 1px solid #0000;
+background-size: 220% auto;border-radius:  10px 0 10px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2023/07/168943567564593.png); background-size: cover;color: #666666;
@@ -101,11 +101,11 @@ $(`<style>#mic4 {margin-right: 8px !important;}
 }</style>`).insertBefore('body');
 $("style").last().append(`
 #upro.r_alhelal1 .border {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #bfbfbf;
 }
 #upro.r_alhelal1 .modal-header.label-primary {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
@@ -154,9 +154,9 @@ height: 52px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
 }
-#users.r_alhelal1 img.co{border-radius:  50px!important;transform:rotate(20deg);margin-top:2px!important}
+#users.r_alhelal1 img.co{border-radius:  10px 0 10px !important;transform:rotate(20deg);margin-top:2px!important}
 #users.r_alhelal1 .nosel.ninr.fl.uzr.label.bg {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     background-color: #b2b2b2;
 	color: #fff;
 	background-image: url(https://up6.cc/2023/07/168943567562992.png);
@@ -164,13 +164,13 @@ height: 52px;
 }
 #d0.r_alhelal1 .label-primary {
     border: 1px solid #464646 !important;
-    border-radius: 50px!important;
+    border-radius: 10px 0 10px !important;
     background-image: url(https://up6.cc/2023/07/168943567564593.png);
     color: #fff;
     background-size: 100%;
 }
 #settings.r_alhelal1 .label-primary {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
@@ -178,7 +178,7 @@ height: 52px;
   color: #fff;
 }
 #settings.r_alhelal1 .btn-primary {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
@@ -187,7 +187,7 @@ height: 52px;
 }
 #settings.r_alhelal1 .bg-primary{background-color:#9d8980!important}#d0.r_alhelal1 .btn-primary{background-color:#9d8980!important}
 #users.r_alhelal1 .tbox {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     background-color: #c7d1ed;
     border: 1px solid #efefef;
 }
@@ -199,7 +199,7 @@ border-radius:  10px 0 10px !important;
 
 #d0.r_alhelal1 .nosel.fl .bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d0.r_alhelal1 .bg-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d2.r_alhelal1 .label-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}
 #room.r_alhelal1 .btn-primary {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     border: 1px solid #464646;
     background-image: url(https://up6.cc/2023/07/168943567564593.png);
     background-size: cover;
@@ -234,7 +234,7 @@ background-color:#FFF !important;
 }
 
 #room.r_alhelal1 .tablebox.d-flex.footer.fl.light {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     border: 1px solid #dce0ec;
     background-color: #c7d1ed;
 }
@@ -267,46 +267,46 @@ filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.r_alhelal1 {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
   background-image: url(https://up6.cc/2023/07/168943567562992.png);
   background-size: cover;
 }
 .modal-header.label-primary.r_alhelal1 {
-	border-radius:  50px!important;
+	border-radius:  10px 0 10px !important;
     border: 1px solid #dce0ec;
     background-color: #b2b2b2!important;
 	background-image: url(https://up6.cc/2023/07/168943567562992.png);
     background-size: cover;
 }
 .head.d-flex.nosel.bg.fl.r_alhelal1, .rsave.btn.btn-primary.fr.r_alhelal1, .fa.fa-send.sndpm.fl.btn.btn-primary.r_alhelal1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.r_alhelal1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.r_alhelal1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.r_alhelal1, .fa.fa-send.sndbc.fl.btn.btn-primary.r_alhelal1 {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     border: 1px solid #464646;
     background-image: url(https://up6.cc/2023/07/168943567562992.png);
     color: #fff;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.r_alhelal1 {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/07/168943567562992.png);
     color: #fff;
 }
 .label.fl.label-primary.r_alhelal1 {
-    border-radius:  50px!important;
+    border-radius:  10px 0 10px !important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/07/168943567562992.png);
     color: #fff;
 }
 #rooms.r_alhelal1{background-color:#dce0ec!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.r_alhelal1{background-color:#dce0ec!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.r_alhelal1{background-color:#dce0ec!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.r_alhelal1 {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
 }
 .dots.r_alhelal1 {
   border-radius:  15px!important;
 }
 .tc.r_alhelal1 {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
 }
 .fl.u-pic.fitimg.r_alhelal1 {
@@ -316,7 +316,7 @@ animation: huerotate 2s infinite linear;
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
 }
 .fl.borderg.r_alhelal1 {
-  border-radius:  50px!important;
+  border-radius:  10px 0 10px !important;
   border: 1px solid #bfbfbf;
 }
 .uhtml.r_alhelal1 {
