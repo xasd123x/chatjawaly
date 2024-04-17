@@ -240,7 +240,7 @@ background-color:#FFF !important;
     background-color: #c7d1ed;
 }
 #upro.r_alhelal1 .light.fl.pro.break {
-    background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
+    background-image: url(https://up6.cc/2024/04/171337913441661.png);
     background-size: 100%;
 }
 #mic.r_alhelal1 #muteall {
