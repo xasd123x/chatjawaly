@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2024/04/17133736780591.png); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2024/04/17133769642231.png); background-size: cover;color: #666666;
 }`);
 
 
@@ -22,7 +22,7 @@ height: 27px!important;
 margin-top: 22px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00!important;
-margin-left: -200px !important;
+margin-left: -20px !important;
 
 }
 
@@ -34,7 +34,7 @@ margin-left: -200px !important;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: -200px !important;
+  margin-left: -20px !important;
 }
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir.bord {border-inline: 0px solid #4c121e !important;}
@@ -166,7 +166,7 @@ height: 52px;
 #d0.r_alhelal1 .label-primary {
     border: 1px solid #5596b3 !important;
     border-radius: 10px 0 10px !important;
-    background-image: url(https://up6.cc/2024/04/17133736780591.png);
+    background-image: url(https://up6.cc/2024/04/17133769642231.png);
     color: #fff;
     background-size: 100%;
 }
@@ -202,14 +202,14 @@ border-radius:  10px 0 10px !important;
 #room.r_alhelal1 .btn-primary {
     border-radius:  10px 0 10px !important;
     border: 1px solid #464646;
-    background-image: url(https://up6.cc/2024/04/17133736780591.png);
+    background-image: url(https://up6.cc/2024/04/17133769642231.png);
     background-size: cover;
     color: #fff;
     font-size: 14px !important;
 }
 #d2.r_alhelal1{
 background-color:#FFF !important;
-  background-image: url("https://up6.cc/2023/08/169126811079691.png")!important;
+  background-image: url("")!important;
   background-size: cover;
 }
 
