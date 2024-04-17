@@ -304,6 +304,7 @@ input.r_alhelal1 {
   border: 1px solid #dce0ec;
 }
 .tc.r_alhelal1 {
+  -webkit-text-fill-color: #273965!important;
   border-radius:  10px 0 10px !important;
   border: 1px solid #dce0ec;
 }
