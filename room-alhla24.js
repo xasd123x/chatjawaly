@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/07/168943567564593.png); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2024/04/171337349372321.png); background-size: cover;color: #666666;
 }`);
 
 
@@ -165,7 +165,7 @@ height: 52px;
 #d0.r_alhelal1 .label-primary {
     border: 1px solid #464646 !important;
     border-radius: 10px 0 10px !important;
-    background-image: url(https://up6.cc/2023/07/168943567564593.png);
+    background-image: url(https://up6.cc/2024/04/171337349372321.png);
     color: #fff;
     background-size: 100%;
 }
@@ -201,7 +201,7 @@ border-radius:  10px 0 10px !important;
 #room.r_alhelal1 .btn-primary {
     border-radius:  10px 0 10px !important;
     border: 1px solid #464646;
-    background-image: url(https://up6.cc/2023/07/168943567564593.png);
+    background-image: url(https://up6.cc/2024/04/171337349372321.png);
     background-size: cover;
     color: #fff;
     font-size: 14px !important;
