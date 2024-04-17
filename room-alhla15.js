@@ -194,7 +194,7 @@ height: 52px;
 #room.r_alhelal1 #mic{
 background-image: url(https://up6.cc/2023/07/168943567562992.png);
 background-size: cover;
-border-radius:  50px!important;
+border-radius:  10px 0 10px !important;
 }
 
 #d0.r_alhelal1 .nosel.fl .bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d0.r_alhelal1 .bg-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d2.r_alhelal1 .label-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}
