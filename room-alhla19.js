@@ -229,7 +229,7 @@ background-color:#FFF !important;
   background-size: cover;
 }
 #chats.r_alhelal1 {
-  background-image: url("https://up6.cc/2024/04/171322023151251.png")!important;
+  background-image: url("https://up6.cc/2024/04/171322292969181.png")!important;
   background-size: cover;
 }
 
