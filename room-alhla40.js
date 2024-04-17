@@ -46,7 +46,7 @@ margin-left: -20px !important;
 
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18ee3d707d9xaf87ad06-xj8dpir {
-    background-image: url(https://up6.cc/2024/04/171338069514741.png);
+    background-image: url(https://up6.cc/2024/04/171338097010991.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
