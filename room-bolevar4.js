@@ -18,7 +18,7 @@ height: 27px;
 margin-top: 22px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00;
-margin-left: 100px !important;
+margin-left: 50px !important;
 
 }
 
@@ -30,7 +30,7 @@ margin-left: 100px !important;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: 100px !important;
+  margin-left: 50px !important;
 }
 
 .nosel.d-flex.room.r18f0369e237xb5fa9ab7xqr4c8e.bord {border-inline: 0px solid #4c121e !important;}
