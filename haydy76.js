@@ -62,6 +62,10 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 #users .uzr.haydy2 .d-flex.fl {
   padding-right: 0px !important;
 }
+#chats.haydy2 {
+  background-image: url("https://up6.cc/2024/07/172227173726621.png")!important;
+  background-size: cover;
+}
 #users .uzr.haydy2 .u-topic {
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
